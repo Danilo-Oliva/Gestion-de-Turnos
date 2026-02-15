@@ -17,4 +17,4 @@ Permite registrar clientes, elegir un servicio y asignar una fecha y hora, valid
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/gestion_turnos.git](https://github.com/TU_USUARIO/gestion_turnos.git)
+   git clone [https://github.com/Danilo-Oliva/Gestion-de-Turnos](https://github.com/Danilo-Oliva/Gestion-de-Turnos)
